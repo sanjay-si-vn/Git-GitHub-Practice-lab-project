@@ -1,0 +1,28 @@
+Git & GitHub Learning Architecture
+
+Developer
+    |
+    v
+Local Repository
+    |
+    v
+Git Commit History
+    |
+    v
+GitHub Repository
+    |
+    +----------------+
+    |                |
+    v                v
+Pull Requests    GitHub Actions
+    |                |
+    v                v
+Code Review      CI/CD Validation
+    |                |
+    +-------+--------+
+            |
+            v
+        Main Branch
+            |
+            v
+         Release

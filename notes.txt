@@ -1,1 +1,47 @@
-Work in progress
+Git Practice Notes
+
+Exercise 1
+
+* Create repository
+* Add files
+* Commit changes
+
+Exercise 2
+
+* Create feature branch
+* Modify application
+* Merge branch
+
+Exercise 3
+
+* Create merge conflict
+* Resolve conflict manually
+
+Exercise 4
+
+* Stash unfinished work
+* Restore work
+
+Exercise 5
+
+* Revert bad commit
+
+Exercise 6
+
+* Recover lost commit using reflog
+
+Exercise 7
+
+* Cherry-pick commit from another branch
+
+Exercise 8
+
+* Rebase feature branch onto main
+
+Exercise 9
+
+* Create release tag
+
+Exercise 10
+
+* Trigger GitHub Actions workflow
