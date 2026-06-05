@@ -1,6 +1,6 @@
 Application Version History
 
-Version 1.0
+Version 1.0 UI team
 
 * Initial application setup
 
