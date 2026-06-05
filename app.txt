@@ -6,7 +6,7 @@ Version 1.0
 
 Version 1.1
 
-* Added login feature
+* Added updated login feature
 
 Version 1.2
 
